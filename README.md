@@ -1,5 +1,16 @@
-# 💫 Sobre mí:
-👋 Zayrus 👽 <br><br> 🧑‍💻 Entusiasta de la ciberseguridad 🔐 con una inclinación especial por el Red Team ❤️‍🔥🚩<br><br>🌐 También le doy al desarrollo web y al scripting con Python y Bash<br><br>🐧 Fan de Linux y todo lo relacionado con redes🌐 <br><br> 🛠️ ¿Qué vas a encontrar por aquí?<br><br>- 🧩 Writeups de máquinas de **HackTheBox**, **TryHackMe** y **Vulnyx**<br>- 🧰 Scripts automatizados para facilitar la vida (porque automatizar es amar)<br>- 🕵️‍♂️ Herramientas de ciberseguridad y cómo usarlas sin perder la cabeza<br><br> 🤝 Comunidad<br><br>Orgulloso miembro de **Wesecure** en Discord 💬, una comunidad genial enfocada en ciberseguridad. Un lugar lleno de gente crack que comparte, aprende y se apoya en este loco mundo del hacking 🧑‍💻💥<br><br>Nos leemos entre flags 🏴‍☠️<br>~ Zayrus
+👋 Soy Zayrus 👽
+
+🧑‍💻 Estudiante de Ingeniería de Sistemas, interesado en ciberseguridad, programación y redes.
+
+🔐 Me llama mucho la atención el Red Team, pentesting y seguridad ofensiva, y suelo practicar en plataformas como Hack The Box y TryHackMe.
+
+🐧 También disfruto Linux, Python, Bash y todo lo relacionado con redes.
+
+⚽ Fuera del teclado, me gusta entrenar, ir al gym y jugar fútbol.
+
+Por aquí voy subiendo proyectos, scripts, writeups y cosas que voy aprendiendo en el camino.
+
+~ Zayrus
 
 
 ## 🌐 Socials:
