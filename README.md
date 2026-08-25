@@ -1,16 +1,29 @@
-👋 Soy Zayrus 👽
+# 👋 Hola, soy Zayrus 👽
 
-🧑‍💻 Estudiante de Ingeniería de Sistemas, interesado en ciberseguridad, programación y redes.
+Soy estudiante de **Ingeniería de Sistemas** y gran parte de mi tiempo lo dedico a aprender sobre **ciberseguridad, programación, Linux y redes**.
 
-🔐 Me llama mucho la atención el Red Team, pentesting y seguridad ofensiva, y suelo practicar en plataformas como Hack The Box y TryHackMe.
+🔐 Me interesa especialmente el mundo del **Red Team, pentesting y seguridad ofensiva**, aunque también disfruto crear scripts, automatizar tareas y desarrollar pequeños proyectos mientras sigo aprendiendo.
 
-🐧 También disfruto Linux, Python, Bash y todo lo relacionado con redes.
+🐧 Actualmente practico con tecnologías como **Python, Bash, Java, Linux** y diferentes herramientas de redes y ciberseguridad.
 
-⚽ Fuera del teclado, me gusta entrenar, ir al gym y jugar fútbol.
+## 🛠️ ¿Qué encontrarás por aquí?
 
-Por aquí voy subiendo proyectos, scripts, writeups y cosas que voy aprendiendo en el camino.
+- 🧩 Writeups y laboratorios de **Hack The Box, TryHackMe y Vulnyx**
+- 💻 Proyectos de programación que voy construyendo durante mi aprendizaje
+- 🧰 Scripts y automatizaciones que puedan ser útiles para otros
+- 🔐 Herramientas, pruebas y apuntes de ciberseguridad
+- 🌐 Prácticas relacionadas con redes y Linux
+- 📚 Recursos y cosas interesantes que vaya descubriendo
 
-~ Zayrus
+La idea de este GitHub es documentar mi progreso, pero también **compartir proyectos y recursos que puedan servirle a la comunidad**.
+
+Si encuentras algo útil, quieres aportar una mejora o simplemente compartir ideas, eres bienvenido. 🤝
+
+⚽ Fuera del teclado también disfruto el fútbol, el gym y mantenerme activo.
+
+**Aprendiendo, creando y compartiendo en el camino.** 🚀
+
+~ **Zayrus**
 
 
 ## 🌐 Socials:
